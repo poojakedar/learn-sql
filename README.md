@@ -1,4 +1,4 @@
-"# PostgreSQL SQL Tutorial
+## PostgreSQL SQL Tutorial
 
 A comprehensive guide to learning SQL with PostgreSQL, from basics to advanced concepts.
 
